@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
-  <title id="title">THE-ERROR808 — Cyber Operations Animation</title>
+  <title id="title">NASRUL AHSAN NAYEM — Cyber Operations Animation</title>
   <desc id="desc">Stylized cinematic night scene of a hooded hacker seated at a desk, alternating attention between a Kali Linux laptop and an Android phone showing a Termux-style terminal. Animated typing, terminal output, cyber threat map pulses, network arcs, rain, and screen scan effects.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -95,7 +95,7 @@
     <g font-family="monospace">
       <path d="M48 52H500L520 72H750" fill="none" stroke="url(#cyan)" stroke-width="2"/>
       <circle cx="48" cy="52" r="4" fill="#00eaff" filter="url(#glow)"/>
-      <text x="50" y="94" fill="#7ffaff" font-size="14" letter-spacing="4">THE-ERROR808 // CYBER OPERATIONS</text>
+      <text x="50" y="94" fill="#7ffaff" font-size="14" letter-spacing="4">NASRUL AHSAN NAYEM // CYBER OPERATIONS</text>
       <text x="50" y="126" fill="#8ba6bf" font-size="12" letter-spacing="2">AUTHORIZED LAB SIMULATION • VISUAL CONCEPT</text>
     </g>
 
