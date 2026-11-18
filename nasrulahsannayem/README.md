@@ -8,12 +8,12 @@
 ---
 
 <div align="center">
-  <img src="./assets/readme.svg" width="100%" alt="THE-ERROR808 Cyberpunk Security Interface" />
+  <img src="./assets/readme.svg" width="100%" alt="NASRUL AHSAN NAYEM Cyberpunk Security Interface" />
 </div> 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=FF0000&center=true&vCenter=true&width=900&lines=%5B+INITIALIZING+SECURE+LAB+%5D;THREAT+SURFACE+MAPPING...;SIGNAL+ANALYSIS+IN+PROGRESS...;DEFENSIVE+SYSTEMS+ONLINE;THE-ERROR808+%2F+READY" alt="Animated terminal status"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=FF0000&center=true&vCenter=true&width=900&lines=%5B+INITIALIZING+SECURE+LAB+%5D;SYSTEM+MONITORING...;AUTOMATION+PIPELINE+IN+PROGRESS...;PRODUCTION+DEPLOYS+ONLINE;NASRUL+AHSAN+NAYEM+%2F+READY" alt="Animated terminal status"/>
 
 </div>
 
@@ -21,7 +21,7 @@
   <img
     src="./assets/activity.svg"
     width="100%"
-    alt="THE-ERROR808 Cyber Operations Animation"
+    alt="NASRUL AHSAN NAYEM Cyber Operations Animation"
   />
 </div>
 
@@ -67,7 +67,7 @@ My workbench: VPS infrastructure, e-commerce platforms, Meta Ads automation, Tel
 <!-- GitHub Contribution Streak -->
 <img
   height="180"
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nasrulahsannayem&hide_border=true&background=050812&ring=00EAFF&fire=FF4D8D&currStreakLabel=39FF14&currStreakNum=39FF14&sideLabels=DCEBFA&sideNums=39FF14&dates=8295AE&stroke=39FF14" alt="GitHub contribution streak"/>
+  src="https://github-readme-streak-stats.herokuapp.com/?user=nasrulahsannayem&hide_border=true&background=050812&ring=00EAFF&fire=FF4D8D&currStreakLabel=39FF14&currStreakNum=39FF14&sideLabels=DCEBFA&sideNums=39FF14&dates=8295AE&stroke=39FF14"
   alt="GitHub contribution streak"
 />
 
@@ -82,10 +82,10 @@ My workbench: VPS infrastructure, e-commerce platforms, Meta Ads automation, Tel
 <div align="center">
   <img src="./assets/directive.svg"
        width="100%"
-       alt="THE-ERROR808 Security Research Directives"/>
+       alt="NASRUL AHSAN NAYEM Security Research Directives"/>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=900&color=FF0000&center=true&vCenter=true&width=800&lines=SYLHETYHACKVENGER;THE-ERROR808;DEFEND.+RESEARCH.+EXPLORE.+REPEAT." alt="Animated cyber-ghost sign-off"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=900&color=FF0000&center=true&vCenter=true&width=800&lines=NASRUL+AHSAN+NAYEM;BUILD.+AUTOMATE.+DEPLOY.+REPEAT." alt="Animated cyber-ghost sign-off"/>
 
 
 <div align="center">
