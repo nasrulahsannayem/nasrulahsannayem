@@ -1,101 +1,98 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=600&color=FF0000&center=true&vCenter=true&width=900&lines=%5B+NASRUL+AHSAN+NAYEM+%5D;FULL-STACK+ENGINEER+%7C+DEVOPS;AUTOMATION+DRIVEN+SYSTEMS;BUILDING+SCALABLE+DIGITAL+COMMERCE;BD+%2F+ONLINE" alt="Animated terminal status"/>
+  <img src="./assets/identity.svg"
+       width="100%"
+       alt="Intro"/>
 </div>
 
----
-
-## 👋 About Me
-
-I'm **Nasrul Ahsan Nayem** — a Full-Stack Engineer, DevOps Practitioner, and Automation Architect based in Bangladesh.
-
-> **"Real execution. Customer trust. Automation-driven systems."**
-
-I build scalable digital commerce platforms, automate business operations, and deploy production-grade infrastructure. Currently driving engineering at **Bunon Fabrics** .
-
-My workbench: VPS infrastructure, e-commerce platforms, Meta Ads automation, Telegram bots, Home Assistant, and custom AI agent pipelines.
 
 ---
 
 <div align="center">
+  <img src="./assets/readme.svg" width="100%" alt="THE-ERROR808 Cyberpunk Security Interface" />
+</div> 
 
-![Python](https://img.shields.io/badge/PYTHON-0A0F1C?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Node.js](https://img.shields.io/badge/NODE.JS-0A0F1C?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![PHP](https://img.shields.io/badge/PHP-0A0F1C?style=for-the-badge&logo=php&logoColor=777BB4)
-![React](https://img.shields.io/badge/REACT-0A0F1C?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0A0F1C?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Docker](https://img.shields.io/badge/DOCKER-0A0F1C?style=for-the-badge&logo=docker&logoColor=2496ED)
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=FF0000&center=true&vCenter=true&width=900&lines=%5B+INITIALIZING+SECURE+LAB+%5D;THREAT+SURFACE+MAPPING...;SIGNAL+ANALYSIS+IN+PROGRESS...;DEFENSIVE+SYSTEMS+ONLINE;THE-ERROR808+%2F+READY" alt="Animated terminal status"/>
+
+</div>
+
+<div align="center">
+  <img
+    src="./assets/activity.svg"
+    width="100%"
+    alt="THE-ERROR808 Cyber Operations Animation"
+  />
+</div>
+
+
+I investigate how systems behave, how digital exposure occurs, and how security can be improved. My workbench is built around practical labs, network auditing, open-source intelligence, CTF challenges, and automation.
+
+
+<div align="center">
+
 ![Linux](https://img.shields.io/badge/LINUX-0A0F1C?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/NGINX-0A0F1C?style=for-the-badge&logo=nginx&logoColor=009639)
-![MySQL](https://img.shields.io/badge/MYSQL-0A0F1C?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0A0F1C?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/REDIS-0A0F1C?style=for-the-badge&logo=redis&logoColor=DC382D)
-![Git](https://img.shields.io/badge/GIT-0A0F1C?style=for-the-badge&logo=git&logoColor=F05032)
+![Kali Linux](https://img.shields.io/badge/KALI_LINUX-0A0F1C?style=for-the-badge&logo=kalilinux&logoColor=00E5FF)
+![Termux](https://img.shields.io/badge/TERMUX-0A0F1C?style=for-the-badge&logo=gnubash&logoColor=00FF9C)
+![Bash](https://img.shields.io/badge/BASH-0A0F1C?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/PYTHON-0A0F1C?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Go](https://img.shields.io/badge/GO-0A0F1C?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Rust](https://img.shields.io/badge/RUST-0A0F1C?style=for-the-badge&logo=rust&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/C-0A0F1C?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![PHP](https://img.shields.io/badge/PHP-0A0F1C?style=for-the-badge&logo=php&logoColor=777BB4)
+![Node.js](https://img.shields.io/badge/NODE.JS-0A0F1C?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Docker](https://img.shields.io/badge/DOCKER-0A0F1C?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/AWS-0A0F1C?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-0A0F1C?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-0A0F1C?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Meta Ads](https://img.shields.io/badge/META_ADS-0A0F1C?style=for-the-badge&logo=meta&logoColor=0668E1)
-![Telegram](https://img.shields.io/badge/TELEGRAM-0A0F1C?style=for-the-badge&logo=telegram&logoColor=26A5E4)
-![Home Assistant](https://img.shields.io/badge/HASS-0A0F1C?style=for-the-badge&logo=home-assistant&logoColor=41BDF5)
+![MySQL](https://img.shields.io/badge/MYSQL-0A0F1C?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLITE-0A0F1C?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Git](https://img.shields.io/badge/GIT-0A0F1C?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GITHUB-0A0F1C?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Nginx](https://img.shields.io/badge/NGINX-0A0F1C?style=for-the-badge&logo=nginx&logoColor=009639)
 
 </div>
 
----
-
-## 🚀 What I Build
-
-| Domain | Focus |
-|--------|-------|
-| **E-Commerce** | bunon.shop — React/Node full-stack, custom checkout, payment gateway (bKash/Nagad) |
-| **DevOps** | VPS infrastructure, Docker containers, PM2, Nginx proxy, CI/CD pipelines |
-| **Automation** | Meta Ads automation, Meta Pixel + CAPI, Telegram bots, WhatsApp bridges |
-| **AI/Agents** | Hermes Agent deployment, custom AI personas, multi-agent orchestration |
-| **Monitoring** | Chekup — TUI/CLI system monitoring with Docker support |
-| **Home Automation** | Home Assistant, device tracking, smart home integrations |
-
----
-
-## 🔗 Connect
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-nasrulahsan.com-0A0F1C?style=flat-square&logo= globe&logoColor=00E5FF)](https://nasrulahsan.com/about/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nasrul-0A0F1C?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/nasrul-ahsan-nayem/)
-[![Facebook](https://img.shields.io/badge/Facebook-nimuuuu.71-0A0F1C?style=flat-square&logo=facebook&logoColor=1877F2)](https://www.facebook.com/nimuuuu.71)
-[![X/Twitter](https://img.shields.io/badge/X-nasrul8879-0A0F1C?style=flat-square&logo=x&logoColor=FFFFFF)](https://x.com/nasrul8879)
-[![YouTube](https://img.shields.io/badge/YouTube-N-71bd-0A0F1C?style=flat-square&logo=youtube&logoColor=FF0000)](https://youtube.com/@N-71bd)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nasrulahsannayem&show_icons=true&hide_border=true&bg_color=0A0F1C&title_color=00E5FF&icon_color=A855F7&text_color=DCEBFA&rank_icon=github" alt="GitHub account statistics"/>
 
+<!-- GitHub Contribution Streak -->
+<img
+  height="180"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=nasrulahsannayem&hide_border=true&background=0A0F1C&ring=00EAFF&fire=FF4D8D&currStreakLabel=39FF14&currStreakNum=39FF14&sideLabels=DCEBFA&sideNums=39FF14&dates=8295AE&stroke=39FF14"
+  alt="GitHub contribution streak"
+/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrulahsannayem&layout=compact&hide_border=true&bg_color=0A0F1C&title_color=00EAFF&text_color=DCEBFA" alt="Public repository language statistics"/>
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph snake"/>
+
+
+<div align="center">
+  <img src="./assets/directive.svg"
+       width="100%"
+       alt="THE-ERROR808 Security Research Directives"/>
 </div>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=900&color=FF0000&center=true&vCenter=true&width=800&lines=SYLHETYHACKVENGER;THE-ERROR808;DEFEND.+RESEARCH.+EXPLORE.+REPEAT." alt="Animated cyber-ghost sign-off"/>
+
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nasrulahsannayem&show_icons=true&hide_border=true&bg_color=0A0F1C&title_color=00E5FF&icon_color=A855F7&text_color=DCEBFA&rank_icon=github" alt="GitHub stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrulahsannayem&layout=compact&hide_border=true&bg_color=0A0F1C&title_color=00E5FF&text_color=DCEBFA" alt="Top languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=%3C%2F+BUILD+FAST+DEPLOY+OFEN+%7C+AUTOMATE+EVERYTHING+%2F%3E" alt="Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=900&lines=%3C%2F+SECURE+BY+DESIGN+%7C+DRIVEN+BY+CURIOSITY+%2F%3E" alt="Cybersecurity footer"/>
 
 <br/>
 
 <sub>
-  <code>[ EXECUTION ]</code>
-  <b>IS THE STRATEGY.</b>
-  <code>[ AUTOMATION ]</code>
-  <b>IS THE LEVERAGE.</b>
+  <code>[ CYBERSECURITY ]</code>
+  <b>IS A DISCIPLINE.</b>
+  <code>[ CURIOSITY ]</code>
+  <b>IS THE ENGINE.</b>
 </sub>
 
 <br/>
